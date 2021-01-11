@@ -7,4 +7,4 @@ this looks for images through the selenuim webdriver with reference name
 downloads the images to a folder with the reference name and a random string.
 
 ## this is included in MachineLearning Repo
-**I thouht it would be good as a secondary repo as it could be useful for things i do in the furture.
+**I thouht it would be good as a secondary repo as it could be useful for things i do in the furture.**
